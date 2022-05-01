@@ -7,7 +7,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/connoralbert/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://connoralbert-portfolio.netlify.app/" title="Portfolio"><img width="22" src="https://flyclipart.com/thumb2/portfolio-icons-download-free-png-and-vector-icons-unlimited-186409.png"> Portfolio</a></code>
+  <code><a href="https://connoralbert-portfolio.netlify.app/" title="Portfolio"><img width="22" src="https://static.vecteezy.com/system/resources/thumbnails/000/348/848/small/Business__28797_29.jpg"> Portfolio</a></code>
 </h5>
 
 
