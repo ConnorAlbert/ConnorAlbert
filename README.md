@@ -10,7 +10,7 @@
   <code><a href="https://connoralbert-portfolio.netlify.app/" title="Portfolio"><img width="22" src="https://flyclipart.com/thumb2/portfolio-icons-download-free-png-and-vector-icons-unlimited-186409.png"> Portfolio</a></code>
 </h5>
 
-<br>
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
