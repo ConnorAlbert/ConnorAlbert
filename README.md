@@ -17,15 +17,15 @@
 <p align="center">
  
   <code><img title="Python" height="26" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Javascript" height="26" src="images/javascript.svg"></code>
+  <code><img title="Flask" height="26" src="images/flask.png"></code>
+  <code><img title="Django" height="26" src="images/django.png"></code>
+  <code><img title="React" height="26" src="images/react-original.svg"></code>
+  <code><img title="HTML5" height="26" src="images/html5.svg"></code>
+  <code><img title="CSS" height="26" src="images/css.svg"></code>
+  <code><img title="Git" height="26" src="images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="26" src="images/postgresql.svg"></code>
+  <code><img title="MySQL" height="26" src="images/mysql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Docker" height="25" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"></code>
