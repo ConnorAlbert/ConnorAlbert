@@ -16,7 +16,7 @@
 <br>
 <p align="center">
  
-  <code><img title="Python" height="26" src="images/python-original.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="26" src="images/javascript.svg"></code>
   <code><img title="Flask" height="26" src="images/flask.png"></code>
   <code><img title="Django" height="26" src="images/django.png"></code>
