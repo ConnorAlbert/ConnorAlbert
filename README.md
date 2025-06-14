@@ -6,7 +6,8 @@
 
 🚀 **Let's connect and collaborate on exciting projects!** I’m excited about building impactful software, contributing to innovative solutions, and growing with like-minded professionals.
 
-📄 [**View my resume**]([[https://docs.google.com/document/d/13CZ86zDBHa8xwvt43EK7LL-Biyy9Sz0LR_XiHy37iKo/edit?hl=en&pli=1#heading=h.z4e6pfsfqi1m](https://docs.google.com/document/d/18rYNsZvvpCeYtBOchZ-48MOhwf8676ws0Umi6ZnftKs/edit?tab=t.0)](https://docs.google.com/document/d/18rYNsZvvpCeYtBOchZ-48MOhwf8676ws0Umi6ZnftKs/edit?usp=sharing)](https://docs.google.com/document/d/18rYNsZvvpCeYtBOchZ-48MOhwf8676ws0Umi6ZnftKs/edit?usp=sharing))
+📄 [**View my resume**](https://docs.google.com/document/d/18rYNsZvvpCeYtBOchZ-48MOhwf8676ws0Umi6ZnftKs/edit?usp=sharing)
+
 
 📫 Feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/connoralbert/).
 
